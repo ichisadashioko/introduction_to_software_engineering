@@ -19,3 +19,4 @@
 12. [Dependability and security specification](02/12.md)
 13. [Dependability engineering](02/13.md)
 14. [Security engineering](02/14.md)
+15. [Dependability and security assurance](02/15.md)
