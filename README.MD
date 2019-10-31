@@ -12,7 +12,7 @@
 8. [Software testing](01/8.md)
 9. [Software evolution](01/9.md)
 
-## [Part 2 Dependability and Security](01/README.md)
+## [Part 2 Dependability and Security](02/README.md)
 
 10. [Sociotechnical systems](02/10.md)
 11. [Dependability and security](02/11.md)
